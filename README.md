@@ -1,9 +1,12 @@
 # Mediamarkt price products alert:
+
+Script for monitoring prices of several products on Mediamarkt.es and get alerted via email
+
 <br>
 <center>
 <img src="./img/logo.png">
 </br>
-Script for monitoring prices of several products on Mediamarkt.es and get alerted via email
+
 
 Published in https://medium.com/@a.fernandez.troyano
 
@@ -25,7 +28,7 @@ It's possible to use:
 - Raspberry Pi + Cronjob + Screen
 
 
-Antonio Fernández Troyano
+*Antonio Fernández Troyano*
 
 <br>
 <center>
