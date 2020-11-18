@@ -8,7 +8,9 @@ Script for monitoring prices of several products on Mediamarkt.es and get alerte
 </br>
 
 
-Published in https://medium.com/@a.fernandez.troyano
+Published at https://antonio-fernandez-troyano.medium.com/monitorizar-precios-mediamarkt-python-blackfriday-i-95cf6032fbb9
+
+Other articles https://antonio-fernandez-troyano.medium.com/
 
 # Data needed for monitoring:
 **Product url:** You need to write down the url of the products that you would like to monitoring inside the "products.txt" file
