@@ -9,6 +9,7 @@ Script for monitoring prices of several products on Mediamarkt.es and get alerte
 
 
 Part I - published at https://antonio-fernandez-troyano.medium.com/monitorizar-precios-mediamarkt-python-blackfriday-i-95cf6032fbb9
+
 Part II - published at https://antonio-fernandez-troyano.medium.com/monitorizar-precios-mediamarkt-python-pre-blackfriday-parte-ii-70e12ee8c105
 
 Other articles https://antonio-fernandez-troyano.medium.com/
